@@ -1,0 +1,14 @@
+[project]
+name = "csv-random-picker"
+description = "String random picker for ComfyUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/lihaoyun6/ComfyUI-CSV-Random-Picker"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-CSV-Random-Picker"
+Icon = ""
